@@ -22,5 +22,5 @@ Any failure from inside the shell will cause the shell to exit with a nonzero st
 .SH BUGS
 Not every possible input has been tested, so some inputs may cause unexpected results. Currently this program does not successfully free all memory that it allocates during runtime.
 .SH AUTHORS
-.B Corbin Coleman,
-.B Holden Grissett
+.B Holden Grissett,
+.B Corbin Coleman
